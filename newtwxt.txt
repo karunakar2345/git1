@@ -1,0 +1,8 @@
+git init
+git status
+git add file name
+git config --global user.email "email"
+gir config --global user.name "karunakar2345"
+git commit -m "commit message"
+git remote add -u origin
+git push url
