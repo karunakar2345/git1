@@ -1,0 +1,12 @@
+devops
+devoloper
+version control system
+bulid/package
+system testing environment
+testing
+pre production 
+production
+version control systems
+1.centalised vesrsion control system(single point of failure)
+
+2.distributed version control system(no single point of failure)
